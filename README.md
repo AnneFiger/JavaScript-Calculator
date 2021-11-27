@@ -4,4 +4,4 @@
 
 DEMO: <https://annefiger.github.io/JavaScript-Calculator/>
 
-["https://icons8.com/icon/12780/calculator"](Calculator icon) by "https://icons8.com"
+("https://icons8.com/icon/12780/calculator")[Calculator icon] by "https://icons8.com"
